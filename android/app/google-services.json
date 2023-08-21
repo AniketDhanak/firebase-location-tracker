@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "334476573441",
+    "firebase_url": "https://firerealdbdemo-default-rtdb.firebaseio.com",
+    "project_id": "firerealdbdemo",
+    "storage_bucket": "firerealdbdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334476573441:android:d61f672db18e3debe2f900",
+        "android_client_info": {
+          "package_name": "com.bynaric.track_person_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcU-QIVTHu5DaWLXqSV3xgdRwYoUCPLpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
